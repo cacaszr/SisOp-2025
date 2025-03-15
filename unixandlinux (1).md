@@ -8,4 +8,4 @@ Class: 1 TI A
 
 ## Unix and Linux Boot Process
 
-![Gambar teks editor VS Code](unixandlinux.png)
+![Gambar teks editor VS Code](flowchart.png)
