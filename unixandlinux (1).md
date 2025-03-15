@@ -1,8 +1,8 @@
 # Boot Process
 
-Name: Firda Rahayu
+Name: Salsabilla Zahratul Ramadhani
 
-NRP: 3124521002
+NRP: 3124521013
 
 Class: 1 TI A
 
