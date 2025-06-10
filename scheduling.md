@@ -8,6 +8,7 @@ Kelas : IT A
 
 ### kode program :
 ![Gambar teks editor VS Code](jsf1.jpg)
+![Gambar teks editor VS Code](jsf11.jpg)
 
 ### output :
 ![Gambar teks editor VS Code](output1.jpg)
